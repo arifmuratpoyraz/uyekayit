@@ -1,0 +1,59 @@
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.exe.config
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.exe
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.pdb
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.xml
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.vbprojAssemblyReference.cache
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Form1.resources
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Form2.resources
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Form3.resources
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Resources.resources
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.vbproj.GenerateResource.cache
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.vbproj.CoreCompileInputs.cache
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.exe
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.xml
+C:\Users\arif murat\Desktop\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.pdb
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.exe.config
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.exe
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.pdb
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\bin\Debug\Sporcu Üye Takipp.xml
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.vbproj.AssemblyReference.cache
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Form1.resources
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Form2.resources
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Form3.resources
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu_Üye_Takipp.Resources.resources
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.vbproj.GenerateResource.cache
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.vbproj.CoreCompileInputs.cache
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.exe
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.xml
+C:\Users\arif murat\Desktop\DOSYA\c#\Sporcu Üye Takipp\obj\Debug\Sporcu Üye Takipp.pdb
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.exe.config
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.exe
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.pdb
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.xml
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.AssemblyReference.cache
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Form1.resources
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Form2.resources
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Form3.resources
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Resources.resources
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.GenerateResource.cache
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.CoreCompileInputs.cache
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.exe
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.xml
+C:\Users\arif murat\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.pdb
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.exe.config
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.exe
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.pdb
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\bin\Debug\Sporcu Üye Takipp.xml
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.AssemblyReference.cache
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Form1.resources
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Form2.resources
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Form3.resources
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu_Üye_Takipp.Resources.resources
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.GenerateResource.cache
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.vbproj.CoreCompileInputs.cache
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.exe
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.xml
+C:\Users\BurakYC\Desktop\Sporcu Üye Takip\obj\Debug\Sporcu Üye Takipp.pdb
